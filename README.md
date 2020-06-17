@@ -1,3 +1,3 @@
 # GitTeste
 
-Versão criada somente em homologação.
+Versão criada somente em produção.
